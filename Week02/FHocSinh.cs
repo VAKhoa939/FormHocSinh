@@ -24,7 +24,7 @@ namespace Week02
         {
             gvHsinh.DataSource = hocSinhDAO.Load();
             // nhanh cap nhat o day
-            //Luan cap nhat o day 2.0
+            //Luan cap nhat o day 3.0
         }
 
         private void btnThem_Click(object sender, EventArgs e)
