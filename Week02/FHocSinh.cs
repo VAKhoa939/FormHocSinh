@@ -24,7 +24,7 @@ namespace Week02
         private void FHocSinh_Load(object sender, EventArgs e)
         {
             gvHsinh.DataSource = hocSinhDAO.Load();
-            // nhanh cap nhat o day
+            // nhanh cap nhat o day roi 
             // ...
         }
 
